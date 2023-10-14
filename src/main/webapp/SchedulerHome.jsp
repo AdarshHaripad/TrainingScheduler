@@ -23,7 +23,7 @@
 				<div >
 				<a href="#">Contact</a></div>
 				<div >
-				<button id="logoutBtn">Logout</button></div>
+				<button id="logoutBtn" onclick="logout()">Logout</button></div>
 				
 	</div>
 	     
